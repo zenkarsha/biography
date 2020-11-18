@@ -1,3 +1,3 @@
 # biography
 
-Something happened in my life.
+Things happened in my life.
